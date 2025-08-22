@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Footer() {
   return (
-    <div>
+    <div id='contact'>
       <hr />
      <h5>Contact Me :</h5>
      <pre>WhatApps/ph : 8167259866</pre>

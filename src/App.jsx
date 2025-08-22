@@ -16,8 +16,9 @@ function App() {
       <div className='container'>
         <Navbar />
         <Home />
-        <Projects />
         <About />
+        <Projects />
+        
         <Footer />
       </div>
 
