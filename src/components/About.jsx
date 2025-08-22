@@ -3,7 +3,7 @@ import abash2 from '/abash2.jpg'
 export default function About() {
   return (
     <>
-      <div>
+      <div style={{ border: '2px solid #ffdbbb' }}>
         <h2>About Me</h2>
 
         <div id="about" className='container2'>
